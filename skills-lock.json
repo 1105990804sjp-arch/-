@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "skills": {
+    "browser-cdp": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/browser-cdp/SKILL.md",
+      "computedHash": "3ea65cbab7d2adfa49409fc9753b738467e6d09e3b124c7f8bf2cc2751a45cde"
+    },
+    "story": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story/SKILL.md",
+      "computedHash": "62b7109dc63f2a83b2f309b117dc85e96a1484d23a1bcd47e5cdee79af8afe1d"
+    },
+    "story-cover": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-cover/SKILL.md",
+      "computedHash": "9401bed34b5ff2e221b29ef1c4a19a5aa89b28bf2db5ebe532edcfc3931e8d79"
+    },
+    "story-deslop": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-deslop/SKILL.md",
+      "computedHash": "2b10a499d93a5c58088f28276c843bb465a0c7a467d81c4a4b1b1cfb879c0a63"
+    },
+    "story-import": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-import/SKILL.md",
+      "computedHash": "c42f0ca65b775c5bb047e005884f40c8614dd750943228e1e037840e4da7a289"
+    },
+    "story-long-analyze": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-long-analyze/SKILL.md",
+      "computedHash": "00adf433b137252fcaee74a318f89a462275700330cf7df769dbd5d62e9345f7"
+    },
+    "story-long-scan": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-long-scan/SKILL.md",
+      "computedHash": "5de9fc9d4d194a6fa543bbac7f62c588d39bb359d222d0b60505c9726099828f"
+    },
+    "story-long-write": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-long-write/SKILL.md",
+      "computedHash": "f646f6936ca8515b5eabfe8bf90cd08c031112e9798f3aeb1c148607cdf56cd3"
+    },
+    "story-review": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-review/SKILL.md",
+      "computedHash": "ced4d31acb9a2679803107e1b5e88a57fbff54bbb2be33d4b4fbe7ecddbd63b9"
+    },
+    "story-setup": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-setup/SKILL.md",
+      "computedHash": "26debd98193c2b2803835cab10c1096ceede089ebd8a4311ce8162f8b2ad88cb"
+    },
+    "story-short-analyze": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-short-analyze/SKILL.md",
+      "computedHash": "bf0afaece7d37ad8491aee5d269f63bd63ace74a7a69e3db8428168a1b3c570d"
+    },
+    "story-short-scan": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-short-scan/SKILL.md",
+      "computedHash": "3e9bb5993f978c6b521d93f036909fb8cf81f925dfaac94419c36dc0b1621a6b"
+    },
+    "story-short-write": {
+      "source": "worldwonderer/oh-story-claudecode",
+      "sourceType": "github",
+      "skillPath": "skills/story-short-write/SKILL.md",
+      "computedHash": "9fa82cda79196dab6433a8b19d0216822c40c6aae4cc119f689f50f594beab23"
+    }
+  }
+}
